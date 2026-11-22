@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website built with HTML, CSS and JavaScript.
 
-**Live site:** https://tumhara-username.github.io/portfolio/
+**Live site:** [https://tumhara-username.github.io/portfolio/](https://priyanshu82004.github.io/portfolio/)
 
 ## Sections
 - About Me and Education
